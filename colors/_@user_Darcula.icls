@@ -1,15 +1,11 @@
-<scheme name="Darcula copy" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.0" />
+<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2018-05-16T17:41:46</property>
+    <property name="created">2017-11-07T20:09:54</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.2.4.0.0</property>
-    <property name="modified">2018-05-21T20:22:08</property>
-    <property name="originalScheme">_@user_Darcula</property>
+    <property name="modified">2017-11-08T19:40:12</property>
+    <property name="originalScheme">Darcula</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.15" />
-  <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Monospaced" />
   <attributes>
     <option name="DEFAULT_COMMA">
       <value>
