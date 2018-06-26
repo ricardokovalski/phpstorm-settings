@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="monstertype" type="JSON" />
       <mapping ext="animation" type="JSON" />
+      <mapping pattern="CNAME" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
