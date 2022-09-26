@@ -2,9 +2,6 @@
   <component name="MessDetector">
     <phpmd_settings_migrated />
   </component>
-  <component name="PhpCodeSniffer">
-    <phpcs_settings_migrated />
-  </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 5.6">
