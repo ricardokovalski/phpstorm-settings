@@ -9,6 +9,7 @@
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping pattern="*.yaml.dist" type="YAML" />
       <removed_mapping pattern=".env" approved="true" type=".env file" />
     </extensionMap>
   </component>
