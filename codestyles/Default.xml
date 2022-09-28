@@ -1,4 +1,10 @@
 <code_scheme name="Default" version="173">
+  <option name="OTHER_INDENT_OPTIONS">
+    <value>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </value>
+  </option>
   <PHPCodeStyleSettings>
     <option name="BLANK_LINES_BETWEEN_IMPORTS" value="1" />
     <option name="LOWER_CASE_BOOLEAN_CONST" value="true" />
